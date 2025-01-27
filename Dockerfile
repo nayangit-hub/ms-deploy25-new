@@ -1,4 +1,4 @@
-FROM openjdk:24-jdk-oracle
+FROM openjdk:17-jdk-oracle
 
 LABEL MAINTAINER Nayan
 
